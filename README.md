@@ -1,23 +1,3 @@
 3D Software Renderer
-==
 
-thebennybox 3D Software Renderer 
-
-Tutorial found here: https://www.youtube.com/playlist?list=PLEETnX-uPtBUbVOok816vTl1K9vV1GgH5
-
-##Build Dependencies##
-- [JAVA](https://www.java.com/en/download/)
-- BUILD TOOLCHAIN (Can be any one of the following, doesn't need to be all of them)
-	- [Eclipse](http://eclipse.org/)
-	- [NetBeans](https://netbeans.org/)
-	- [IntelliJ IDEA](http://www.jetbrains.com/idea/)
-
-##Simple Build Instructions##
-###Using IDE###
-- Open your preferred Java IDE, and create a new project.
-- Import everything under the src folder as source files.
-- Copy the res folder into your Java IDE's folder for your project.
-- Build and run
-
-##Additional Credits##
-- Everyone who's created or contributed to issues and pull requests, which make the project better!
+Software rendering is the process of generating an image from a model by means of computer software. In the context of computer graphics rendering, software rendering refers to a rendering process that is not dependent upon graphics hardware ASICs, such as a graphics card. The rendering takes place entirely in the CPU. Rendering everything with the (general-purpose) CPU has the main advantage that it is not restricted to the (limited) capabilities of graphics hardware, but the disadvantage that more semiconductors are needed to obtain the same speed.
